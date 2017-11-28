@@ -1,4 +1,4 @@
-// Liczby Fibonacciego --- zmianaaaaaaaaaaaaaaaaaaaaaaaaaasssssaaaaaaaaaaa
+// Liczby Fibonacciego --- innasdasasadassdasdasdsd
 // Data:   20.04.2008 --- zmiana 2
 // (C)2012 mgr Jerzy Wa³aszek
 //---------------------------
