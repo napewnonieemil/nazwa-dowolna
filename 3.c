@@ -1,6 +1,6 @@
-// Liczby Fibonacciego --- innasdasasadassdasdasdsd
+// Liczby Fibonacciego ---aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 // Data:   20.04.2008 --- zmiana 2
-// (C)2012 mgr Jerzy Wa³aszek
+// (C)2012 mgr Jerzy WaÂ³aszek
 //---------------------------
 
 #include <iostream>
