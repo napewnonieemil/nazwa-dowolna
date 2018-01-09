@@ -1,6 +1,7 @@
-// Reszty potêg 2 modulo n --- zmiana
+// Reszty potÃªg 2 modulo n --- zmianaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 // Data   : 4.04.2008 --- zmiana 2
-// (C)2012 mgr Jerzy Wa³aszek
+// (C)2012 mgr Jerzy WaÂ³aszek
+// tuturuu
 //----------------------------
 
 #include <iostream>
@@ -9,7 +10,7 @@ using namespace std;
 
 typedef unsigned long long ulong;
 
-// Funkcja mno¿y a i b mod n
+// Funkcja mnoÂ¿y a i b mod n
 //--------------------------
 ulong MnozModulo(ulong a, ulong b, ulong n)
 {
